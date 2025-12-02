@@ -1,3 +1,8 @@
+---
+layout: default
+title: League of Legends Analysis
+---
+
 # League_of_legends_analysis
 
 Name: Jingwen Gu
